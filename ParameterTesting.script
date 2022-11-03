@@ -4,4 +4,4 @@
 #SBATCH -n 1
 #SABTCH --mem=16GB
 #SBATCH --gres=gpu:1
-python Experiment.py
+python ParameterTesting.py
